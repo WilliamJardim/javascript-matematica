@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Derivada de funções</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="calculate();">
+    <h2> Código JavaScript abaixo: </h2>
+    <pre class="example-pre">
+        <div class="code-container">
+            <code class="example">
+                /*
+                Calculando a derivada de uma função matematica usando JavaScript
+                */
+    
+                /**
+                * Função Sigmoid escrita em JavaScript
+                * @param {number} x - valor X.
+                * @returns {number} O resultado da funçãos.
+                */
+                function sigmoid(x){
+                    return 1.0 / (1.0 + Math.exp(-x))
+                }
+            
+                /**
+                * Derivada real da função Sigmoid escrita em JavaScript
+                * @param {number} x - valor X.
+                * @returns {number} O resultado da funçãos.
+                */
+                function derivada_real(output){
+                    return output * (1.0 - output)
+                }
+            
+                /**
+                * Calcula a derivada aproximada de uma função matematica usando um método numérico.
+                * @param {number} funcao - A função matematica em forma de função JavaScript mesmo.
+                * @param {number} pontoX - O ponto X da função que queremos calcular a derivada.
+                * @returns {number} A derivada.
+                */
+                function derivada_estimada(funcao, pontoX){
+                    const valorPertinho = 0.001;
+            
+                    const x = pontoX;
+                    const xPlus = x + outroPontoPertinho;
+            
+                    const y = funcao(x);
+                    const yPlus = funcao(xPlus);
+            
+                    const deltaX = (xPlus - x);
+                    const deltaY = (yPlus - y);
+            
+                    return deltaY / deltaX;
+                }
+            
+                //Comparando o resultado
+                let pontos = [-2, -1, 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+                for( let i = 0 ; i < pontos.length ; i++ )
+                {
+                    const ponto = pontos[i];
+                    const resultadoFuncao = sigmoid(ponto);
+                    
+                    const derivadaReal = derivada_real(resultadoFuncao);
+                    const derivadaAproximada = derivada_estimada(sigmoid, ponto);
+            
+                    const resuls = [derivadaReal, derivadaAproximada, (derivadaReal-derivadaAproximada)]
+            
+                    console.log( `REAL: ${resuls[0]}, APROXIMADA: ${resuls[1]}, DIFERENÇA: ${resuls[2]}` );
+                }
+            </code>
+        </div>
+    </pre>
+
+    <h2> Testando </h2>
+    <br/>
+    <input id="points-input" value="-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"></input>
+    <button id="btn-calc" onclick="calculate()"> Calcular Derivada </button>
+
+    <div id="code-results">
+        <h2>Tabela com os resultados:</h2>
+        <table id="result-table">
+        </table>
+    </div>
+
+</body>
+
+<script src="index.js"></script>
+</html>
