@@ -14,12 +14,12 @@ function sigmoid(x)
 
 /**
  * Derivada real da função Sigmoid escrita em JavaScript
- * @param {number} x - valor X.
- * @returns {number} O resultado da funçãos.
+ * @param {number} saidaSigmoid - Saida da função sigmoid.
+ * @returns {number} A derivada.
 */
-function derivada_real(output)
+function derivada_real(saidaSigmoid)
 {
-    return output * (1.0 - output)
+    return saidaSigmoid * (1.0 - saidaSigmoid)
 }
 
 /**
