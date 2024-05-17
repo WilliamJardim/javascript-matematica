@@ -3,11 +3,10 @@ Calculando a derivada de uma função matematica usando JavaScript
 */
 
 /**
- * Source: Jason Brownlee, How to Code a Neural Network with Backpropagation In Python (from scratch), Machine Learning Mastery, Available from https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/, accessed April 15th, 2024.
+ * Jason Brownlee, How to Code a Neural Network with Backpropagation In Python (from scratch), Machine Learning Mastery, Available from https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/, accessed April 15th, 2024.
  *
- * Função Sigmoid em JavaScript
  * @param {number} x - valor X.
- * @returns {number} O resultado da funçãos.
+ * @returns {number} O resultado da função Sigmoid.
 */
 function sigmoid(x)
 {
@@ -15,11 +14,10 @@ function sigmoid(x)
 }
 
 /**
- * Source: Jason Brownlee, How to Code a Neural Network with Backpropagation In Python (from scratch), Machine Learning Mastery, Available from https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/, accessed April 15th, 2024.
+ * Jason Brownlee, How to Code a Neural Network with Backpropagation In Python (from scratch), Machine Learning Mastery, Available from https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/, accessed April 15th, 2024.
  *
- * Derivada real da função Sigmoid em JavaScript
  * @param {number} saidaSigmoid - Saida da função sigmoid.
- * @returns {number} A derivada.
+ * @returns {number} A derivada da Sigmoid.
 */
 function derivada_real(saidaSigmoid)
 {
