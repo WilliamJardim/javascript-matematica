@@ -32,7 +32,7 @@ function derivada_real(saidaSigmoid)
 */
 function derivada_estimada(funcao, pontoX)
 {
-    const valorPertinho = 0.001;
+    const valorPertinho = 1.4901161193847656e-8;
 
     const x = pontoX;
     const xPlus = x + valorPertinho;
