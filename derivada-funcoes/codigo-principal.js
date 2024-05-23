@@ -25,7 +25,7 @@ function derivada_real(saidaSigmoid)
 }
 
 /**
- * CRÉDITOS: Help Engenharia, MARATONA COMO PASSAR EM CÁLCULO, Abril de 2024
+ * CRÉDITOS: Help Engenharia, Aula de Derivadas, MARATONA COMO PASSAR EM CÁLCULO, Abril de 2024
  *
  * Calcula a derivada aproximada de uma função matematica usando um método numérico.
  * @param {number} funcao - A função matematica em forma de função JavaScript mesmo.
