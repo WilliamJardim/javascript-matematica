@@ -1,8 +1,8 @@
-# produto-escalar-matrizes
-Calcula o produto escalar(multiplicação entre duas matrizes)
+# produto-escalar-matriz-com-vetor
+Calcula o produto escalar de uma matriz com um vetor.
 
 **Licença usada nesse código em questão(o produto-escalar-matrizes)**  
-produto-escalar-matrizes © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+produto-escalar-matriz-com-vetor © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 **Descrição dos arquivos:**
   - **codigo-principal.js**: Todo o código JavaScript.

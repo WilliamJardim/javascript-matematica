@@ -1,5 +1,9 @@
 /**
-* produto-escalar-matrizes © 2024 by William Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+* License of this file:
+* File Name: codigo-principal.js
+*
+* License: produto-escalar-matrizes © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+*
 */
 function Matrix( config ){
     let matrix = {};
@@ -38,7 +42,7 @@ function Matrix( config ){
  * Calcula o produto escalar entre duas matrizes:
  * @param {Matrix} matrixA - a matriz A, ou seja, a primeira matriz
  * @param {Matrix} matrixB - a matriz B, ou seja, a segunda matriz
- * @returns {Matrix} - produto escalar.
+ * @returns {Matrix} - matrix resultante.
 */
 function produtoEscalar( matrixA, matrixB ){
     /**
