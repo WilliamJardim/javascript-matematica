@@ -1,6 +1,7 @@
 # javascript-matematica
-Funções matematicas em JavaScript
+Funções matematicas em JavaScript.
 
 - **Projetos incluidos:**
   -  derivada-funcoes: Calcular derivadas de funções matemáticas em JavaScript.
   -  limite-funcoes: Calcular limite de funções matemáticas em JavaScript.
+  -  produto-escalar-matrizes: Calcular produto escalar de matrizes(multiplicação de duas matrizes)
