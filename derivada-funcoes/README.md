@@ -5,6 +5,7 @@ Calcular derivadas de funções matemáticas em JavaScript
   - **codigo-principal.js: todo o código usado(para calcular a derivada e testar)**
   - index.html: apenas uma página simples pra exibir os resultados.
   - index.css: alguns estilos usados na pagina.
+  - derivada.js: arquivo contendo apenas o código para calcular a derivada.
 
 **Créditos**
    - Help Engenharia, Aula de Derivadas, MARATONA COMO PASSAR EM CÁLCULO, Abril de 2024

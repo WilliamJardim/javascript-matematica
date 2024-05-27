@@ -3,6 +3,7 @@ Encontra o limite de funções matematicas usando um método classico de tentati
 
 **Descrição dos arquivos:**
   - **codigo-principal.js: todo o código usado**
+  - limite.js: arquivo contendo apenas a função para calcular limites.
   - index.html: apenas uma página simples pra exibir os resultados.
   - index.css: alguns estilos usados na pagina.
 
