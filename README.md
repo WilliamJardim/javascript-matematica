@@ -2,6 +2,8 @@
 Funções matematicas em JavaScript.
 
 - **Projetos incluidos:**
+  -  MMC(Mínimo múltiplo comum): Calcula o MMC entre números.
+
   -  derivada-funcoes: Calcular derivadas de funções matemáticas em JavaScript.
   
   -  limite-funcoes: Calcular limite de funções matemáticas em JavaScript.

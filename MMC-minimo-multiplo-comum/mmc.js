@@ -1,4 +1,13 @@
 /**
+* File Name: mmc.js
+* Author Name: William Alves Jardim
+* Author Email: williamalvesjardim@gmail.com
+*
+* License: MMC-minimo-multiplo-comum © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+*
+*/
+
+/**
 Calcula o MMC entre números
 @param {Array} numerosDesejados;
 @returns {Object}
