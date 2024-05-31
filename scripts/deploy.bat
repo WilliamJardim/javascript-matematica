@@ -5,3 +5,4 @@ git add .
 cd ..
 git commit -m "Novo commit"
 git push -u origin main
+pause
