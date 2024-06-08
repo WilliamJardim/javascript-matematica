@@ -1,8 +1,5 @@
 cd ..
 git add .
-cd derivada-funcoes
-git add .
-cd ..
-git commit -m "Novo commit"
+git commit -m "Novo commit javascript-matematica"
 git push -u origin main
 pause
