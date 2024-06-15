@@ -3,7 +3,7 @@
 * Author Name: William Alves Jardim
 * Author Email: williamalvesjardim@gmail.com
 *
-* License: WilliamJardim/matriz de identidade © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+* License: WilliamJardim/matriz-identidade © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 *
 */
 
