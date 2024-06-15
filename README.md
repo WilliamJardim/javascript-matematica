@@ -21,3 +21,15 @@ Funções matematicas em JavaScript.
   -  matriz de identidade: Gera a matriz de identidade
 
   -  matriz oposta: Calcula a matriz oposta
+
+  -  soma-matrizes: Soma duas matrizes
+
+  -  subtracao-matrizez: Subtrai duas matrizes
+
+  -  divisao-matrizez: Divide duas matrizes
+
+  -  soma-vetores: Soma dois vetores
+
+  -  subtracao-vetores: Subtrai dois vetores
+
+  -  divisao-vetores: Divide dois vetores

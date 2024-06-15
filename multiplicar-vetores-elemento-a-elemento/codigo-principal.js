@@ -14,6 +14,11 @@
 */
 function multiplicarVetores(vectorA, vectorB){
     let vetorResultado = [];
+
+    if( vectorA.length != vectorB.length ){
+        throw 'Os vetores precisam ser do mesmo tamanho!'
+    }
+
     for( let i = 0 ; i < vectorA.length ; i++ )
     {   
         vetorResultado.push( vectorA[i] * vectorB[i] );

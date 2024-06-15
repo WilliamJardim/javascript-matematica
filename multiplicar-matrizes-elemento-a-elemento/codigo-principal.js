@@ -14,6 +14,11 @@
 */
 function multiplicarMatrizes(matrixA, matrixB){
     let matrixResultado = [];
+
+    if( matrixA.length != matrixB.length || matrixA[0].length != matrixB[0].length ){
+        throw 'As matrizes precisam ser do mesmo tamanho!'
+    }
+
     for( let i = 0 ; i < matrixA.length ; i++ )
     {   
         matrixResultado[i] = [];
