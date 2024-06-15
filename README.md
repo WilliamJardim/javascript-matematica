@@ -13,3 +13,9 @@ Funções matematicas em JavaScript.
   -  produto-escalar-matriz-com-vetor: Calcular produto escalar de uma matriz com um vetor.
 
   -  produto-escalar-vetor-com-vetor: Calcular produto escalar de um vetor com outro vetor.
+
+  -  multiplicar matrizes elemento a elemento: Multiplica duas matrizes elemento a elemento
+
+  -  multiplicar vetores elemento a elemento: Multiplica dois vetores elemento a elemento
+
+  -  matrix de identidade: Gera a matriz de identidade
