@@ -1,7 +1,7 @@
 # matriz de identidade
 Gera a matrix de identidade
 
-**Licença usada nesse código em questão(o matriz-transposta)**  
+**Licença usada nesse código em questão(o matriz-identidade)**  
 WilliamJardim/matriz-identidade © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 **Descrição dos arquivos:**

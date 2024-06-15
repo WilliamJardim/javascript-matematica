@@ -1,7 +1,7 @@
 # multiplicar matrizes elemento a elemento
 Multiplica duas matrizes, elemento a elemento
 
-**Licença usada nesse código em questão(o matriz-transposta)**  
+**Licença usada nesse código em questão(o multiplicar-matrizes-elemento-a-elemento)**  
 WilliamJardim/multiplicar matrizes elemento a elemento © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 **Descrição dos arquivos:**
