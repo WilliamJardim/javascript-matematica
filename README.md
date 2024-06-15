@@ -18,4 +18,6 @@ Funções matematicas em JavaScript.
 
   -  multiplicar vetores elemento a elemento: Multiplica dois vetores elemento a elemento
 
-  -  matrix de identidade: Gera a matriz de identidade
+  -  matriz de identidade: Gera a matriz de identidade
+
+  -  matriz oposta: Calcula a matriz oposta
