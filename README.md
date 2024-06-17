@@ -40,6 +40,8 @@ Funções matematicas em JavaScript.
 
   -  soma-vetores: Soma dois vetores
 
+  -  soma-vetores-por-um-numero-scalar: Soma um vetor com um número
+
   -  subtracao-vetores: Subtrai dois vetores
 
   -  divisao-vetores: Divide dois vetores
