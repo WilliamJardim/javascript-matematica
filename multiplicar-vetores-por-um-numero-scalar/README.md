@@ -1,8 +1,8 @@
-# divisao-vetores
-Realiza a divisão de dois vetores
+# multiplicar-vetores-por-um-numero-scalar
+Multiplica um vetor por um número
 
-**Licença usada nesse código em questão(o divisao-vetores)**  
-WilliamJardim/divisao-vetores © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+**Licença usada nesse código em questão(o multiplicar-vetores-por-um-numero-scalar)**  
+WilliamJardim/multiplicar-vetores-por-um-numero-scalar © 2024 by William Alves Jardim is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 **Descrição dos arquivos:**
   - **codigo-principal.js**: Todo o código JavaScript.
