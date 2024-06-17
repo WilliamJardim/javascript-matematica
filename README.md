@@ -22,11 +22,15 @@ Funções matematicas em JavaScript.
 
   -  multiplicar vetores por um número: Multiplica um vetor por um número
 
+  -  multiplicar matrizes por um vetor linha por linha: Multiplica uma matriz por um vetor, aplicando o vetor a cada linha da matrix
+
   -  matriz de identidade: Gera a matriz de identidade
 
   -  matriz oposta: Calcula a matriz oposta
 
   -  soma-matrizes: Soma duas matrizes
+
+  -  soma-matrizes-por-um-numero-scalar: Soma uma matrix com um número
 
   -  subtracao-matrizez: Subtrai duas matrizes
 
