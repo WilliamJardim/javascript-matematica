@@ -34,6 +34,8 @@ Funções matematicas em JavaScript.
 
   -  subtracao-matrizez: Subtrai duas matrizes
 
+  -  subtracao-matrizes-por-um-numero-scalar: Subtrai uma matrix com um número
+
   -  divisao-matrizez: Divide duas matrizes
 
   -  soma-vetores: Soma dois vetores
