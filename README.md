@@ -38,10 +38,16 @@ Funções matematicas em JavaScript.
 
   -  divisao-matrizez: Divide duas matrizes
 
+  -  divisao-matrizez-por-um-numero-scalar: Divide uma matriz por um número
+
+  -  divisao-matrizes-por-um-vetor-linha-por-linha: Divide a matrix por um vetor, aplicando o vetor a cada linha da matrix
+
   -  soma-vetores: Soma dois vetores
 
   -  soma-vetores-por-um-numero-scalar: Soma um vetor com um número
 
   -  subtracao-vetores: Subtrai dois vetores
+
+  -  subtracao-vetores-por-um-numero-scalar: Subtrai um vetor com um número
 
   -  divisao-vetores: Divide dois vetores
