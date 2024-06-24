@@ -1,5 +1,5 @@
 # javascript-matematica
-![Logo do Projeto](https://github.com/WilliamJardim/javascript-matematica/blob/main/imagens/logo.png)
+![Logo do Projeto](https://github.com/WilliamJardim/javascript-matematica/blob/main/imagens/logo256x256.png)
 
 Funções matematicas em JavaScript.
 
