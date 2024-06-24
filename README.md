@@ -1,4 +1,6 @@
 # javascript-matematica
+![Logo do Projeto]()
+
 Funções matematicas em JavaScript.
 
 - **Projetos incluidos:**
